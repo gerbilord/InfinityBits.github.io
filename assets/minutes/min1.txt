@@ -1,5 +1,3 @@
-The minutes for our first meeting.
-
-Wait a second... we never met.
-
-Hopefully no one clicks on this.
+Purchased the domian name.
+Created the website on github pages.
+Added very basics that were requested.
