@@ -1,0 +1,14 @@
+Owen: Overview of project
+-background
+-User interfaces
+-Contextual Information
+Jorge: Define scope of project
+Alessandro: Hardware Specifications
+project timeline
+Steve: Performance measures
+Logging, Security, etc.
+Sydney: Maintenance Planning
+Functionality
+clarified details on specific topics of the SRS
+Timeline, functionality, logging/security, overview of project vs scope of project
+meeting was 25 minutes
