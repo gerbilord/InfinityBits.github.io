@@ -1,0 +1,17 @@
+owen+syd 8 PM, Jorge 8:02 PM, Alessandro 8:03 PM, Steve 8:06 PM
+Discussed errors and touch-ups on SRS document to resubmit
+Decided to use MySQL, Java, Javascript
+Importing bootstrap library (Library contains HTML, CSS, Javascript)
+
+Agreed upon customer's website name: videodivision.net
+Using inmotionhosting.com to host website
+
+discussed pushing to github to test code and pushing to main website to keep track of changes in code and database
+inmotionhosting will provide a log for all changes
+made plans for tomorrow: meetings on how to upload to git, log on, etc.
+
+discussed and created a list of functionalities and non-functionalities for the SRS
+
+Distributed workload for SRS touchups
+
+Meeting ended at 9:35 PM 
