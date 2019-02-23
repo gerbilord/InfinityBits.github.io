@@ -1,0 +1,10 @@
+Alessandro, Owen, Steve, Sydney 8
+jorge 8:06
+Learned how to use FTP from Steve using FileZilla
+set up access to SQL database
+Went over very basic SQL coding.
+Set up data entities for database (skeleton, may edit/add more in the future)
+Discussed Data Model
+and FR-Model
+Alessandro will start downloading royalty free video
+Discussed languages for website (PHP)
