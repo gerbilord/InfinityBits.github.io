@@ -1,0 +1,7 @@
+testing methodologies:
+we are required to do coverage testing C0 (statement coverage) and C1 (branch coverage)
+need to name a member of team as "tester"
+create 500 use cases?
+person who creates the use cases for a feature should not be the person who developed the feature
+testing generates a report - "x lines executed..."
+table containing all the use cases and showing which ones passed

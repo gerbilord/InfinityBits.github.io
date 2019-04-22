@@ -1,0 +1,7 @@
+Next sprint: 
+Functional content for user page
+Ability to add users as friends
+
+Add all episodes page, start keeping track of left-off watching
+
+Sort out storage stuff

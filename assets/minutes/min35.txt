@@ -1,0 +1,12 @@
+everyone 8
+steve: view other users' profiles
+owen: fix issue with upload form
+sydney: previous episode edge case and watch video controller improvements
+
+Alessandro: Chat windows being worked on
+
+owen: admin tools page and requiring authentication for everything
+
+Sydney: All episodes page, playback
+
+Steve:  drop down menu for Owen to redirect to Admin - Only pages.

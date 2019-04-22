@@ -1,0 +1,5 @@
+jorge owen sydney 8
+sydney: resume playback
+steve: fixing website error
+jorge: finish up ratings, work on chat afterwards
+owen: using username to log in

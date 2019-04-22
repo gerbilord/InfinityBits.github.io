@@ -1,0 +1,6 @@
+Alessandro, Jorge, Sydney, Owen at 8
+Jorge: Finishing up review
+Sydney: Finished WatchVideo page, merged to master waiting for live; Will fix edge case bug by next sprint
+Alessandro: Content page done, Subscriptions is implemented, working on deleting subscriptions
+
+Owen: bugfixes to allow user to choose from existing shows instead of creating a new show

@@ -1,0 +1,8 @@
+Alessandro: Live friend search. Favorite button. Fix season length bugs.
+
+Sydney: working on All Episodes page
+using ->count, a method that exists
+
+Steve: Continuing work on the profile
+
+Jorge put in his two day notice.

@@ -1,0 +1,11 @@
+everyone at 8
+
+Sydney: Fixing seasons/episodes bug, working on All episodes page
+JORGE: Try to get username to pop up with message that the user posts.
+Also, try to fix font because it doesnt want to go away
+
+Owen: Researched laravel disks and created a 'videos' disk that points to the /assets/videos directory, and fixed bugs with the upload form
+
+Alessandro
+On his last day he: Made a favorite button.
+fixed a bug or two
