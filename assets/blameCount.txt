@@ -1,0 +1,20 @@
+Running the below command:
+git ls-files | xargs -n1 git blame --line-porcelain | sed -n 's/^author //p' | sort -f | uniq -ic | sort -nr
+
+The total blame is this:
+10467 jorgeavalosjr
+7081 Steve
+1204 Alessandro
+1113 MuscleNerd
+ 406 Owen Dugmore
+ 301 PureDefender
+  29 Steve Oseguera
+   2 MuscleNrd
+   1 Jorge Avalos
+
+Compiled it is:
+10468 - Jorge
+8225  - Steve
+1204  - Alessandro
+406   - Owen
+301   - Sydney 
