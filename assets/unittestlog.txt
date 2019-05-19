@@ -11,7 +11,7 @@ Code Coverage Report:
 \App\Console::App\Console\Kernel
   Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
 \App\Console\Commands::App\Console\Commands\CheckExpiredSubscriptions
-  Methods:  100.00% ( 2/ 2)   Lines:  95.67% (  2/ 12)
+  Methods:  100.00% ( 2/ 2)   Lines:  16.67% (  2/ 12)
 \App\Exceptions::App\Exceptions\Handler
   Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
 \App\Http\Controllers::App\Http\Controllers\ChatController
@@ -27,23 +27,23 @@ Code Coverage Report:
 \App\Http\Controllers::App\Http\Controllers\PaymentController
   Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
 \App\Http\Controllers::App\Http\Controllers\PostController
-  Methods:  100.00% ( 4/ 4)   Lines:  92.19% ( 19/ 43)
+  Methods:  100.00% ( 4/ 4)   Lines:  48.84% ( 21/ 43)
 \App\Http\Controllers::App\Http\Controllers\UserProfileController
   Methods:  100.00% ( 10/10)   Lines:  94.20% ( 65/ 69)
 \App\Http\Controllers::App\Http\Controllers\ViewVideo
-  Methods:  100.00% ( 5/ 5)   Lines:  90.91% ( 80/ 91)
+  Methods:  100.00% ( 5/ 5)   Lines:  87.91% ( 80/ 91)
 \App\Http\Controllers::App\Http\Controllers\WatchVideo
-  Methods:  100.00% ( 6/ 6)   Lines:  01.82% ( 63/ 77)
+  Methods:  100.00% ( 6/ 6)   Lines:  81.82% ( 63/ 77)
 \App\Http\Controllers\Admin::App\Http\Controllers\Admin\AdminToolsController
   Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
 \App\Http\Controllers\Admin::App\Http\Controllers\Admin\UploadController
   Methods:  100.00% ( 4/ 5)   Lines:  90.74% ( 98/108)
 \App\Http\Controllers\Search::App\Http\Controllers\Search\LiveSearch
-  Methods:  100.00% ( 5/ 5)   Lines:  87.81% (  8/ 54)
+  Methods:  100.00% ( 5/ 5)   Lines:  14.81% (  8/ 54)
 \App\Http\Controllers\Search::App\Http\Controllers\Search\SearchController
-  Methods:  48.15% (27/27)   Lines:  98.09% ( 88/183)
+  Methods:  48.15% (27/27)   Lines:  48.09% ( 88/183)
 \App\Http\Middleware::App\Http\Middleware\Authenticate
-  Methods:   100.00% ( 1/ 1)   Lines:  96.67% (  2/  3)
+  Methods:   100.00% ( 1/ 1)   Lines:  66.67% (  2/  3)
 \App\Http\Requests::App\Http\Requests\ContactRequest
   Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
 \App\Mail::App\Mail\ContactMail
